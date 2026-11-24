@@ -2,6 +2,7 @@
 
 [![Core Web Vitals Auditor](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/uk/core-web-vitals-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits TTFB latency, compression headers, render-blocking scripts, and Cumulative Layout Shift stability.
 
@@ -46,9 +47,23 @@ For full web performance audits and real-world loading simulations:
 
 ***
 
-## Web Performance and Speed Optimization Advisory
+## Web Performance and Speed Optimisation Advisory
 
 For enterprise page speed architectures aligning with W3C Standards and UK Digital Performance Architecture, contact the specialists at **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
