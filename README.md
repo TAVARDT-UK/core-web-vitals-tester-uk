@@ -49,3 +49,7 @@ For full web performance audits and real-world loading simulations:
 ## Web Performance and Speed Optimization Advisory
 
 For enterprise page speed architectures aligning with W3C Standards and UK Digital Performance Architecture, contact the specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
