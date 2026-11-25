@@ -6,8 +6,6 @@
 
 Audits TTFB latency, compression headers, render-blocking scripts, and Cumulative Layout Shift stability.
 
-Developed and maintained by the web performance and delivery engineering division of **TAVARDT**.
-
 ***
 
 ## Core Web Vitals Audit Capabilities
@@ -38,15 +36,6 @@ python cwv_tester.py https://company.co.uk -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web performance audits and real-world loading simulations:
-
-* **Official Core Web Vitals Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Web Performance and Speed Optimisation Advisory
 
 For enterprise page speed architectures aligning with W3C Standards and UK Digital Performance Architecture, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise page speed architectures aligning with W3C Standards and UK Digit
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
